@@ -97,7 +97,7 @@
 //   } else if (typeof a == "object" && typeof b == "object") {
 //     return myArray.length + myArrayTwo.length;
 //   } else if ((a + b) % 2 === 1 || (myArray.length + myArrayTwo.length) % 2 === 1) {
-//     return "nope";
+//     return "Suma nelyginė";
 //   }
 // }
 
